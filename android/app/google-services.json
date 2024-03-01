@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "947461862152",
+    "project_id": "sweetlive-8b970",
+    "storage_bucket": "sweetlive-8b970.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947461862152:android:30b43a50f1611e7cc072bd",
+        "android_client_info": {
+          "package_name": "com.buft.stream"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt4nLjpU347dbNCpjmSarf7X4-iJpLP94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
